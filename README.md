@@ -1,7 +1,7 @@
 # Excel VBA Project for Data Management and Automation
 Overview
 
-This project features an Excel workbook containing uncleaned data from Nester's Market periodic Gross Profit reports, enhanced with VBA macros designed to automate data management, cleaning, and processing tasks. The key functions include cleaning headers, unmerging and splitting cells, managing inventory data, and consolidating information across multiple worksheets.
+This project involves an Excel workbook containing uncleaned data from Nester's Market's periodic Gross Profit reports, enhanced with VBA macros to automate tasks related to data management, cleaning, and processing. The key functions include cleaning headers, unmerging and splitting cells, managing inventory data, and consolidating information across multiple worksheets. These processes facilitate the creation of Pivot tables used in my business analytics course report to identify problems faced by Nester's Market
 
 ## Features
 - Clean Repeated Headers (CleanHeadersAndTitles): Automatically identifies and removes empty rows, redundant headers, and titles, ensuring a clean dataset for further analysis.
