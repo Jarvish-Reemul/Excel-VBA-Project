@@ -9,7 +9,7 @@ This project features an Excel workbook containing uncleaned data from Nester's 
 - Unmerge & Split Cells (UnmergeAndSplitCells): Unmerges cells and splits text based on specific criteria, improving data readability.
 - Shift "Total" Adjacent (MoveTotalToAdjacentCell): Moves text from "Total" cells into adjacent cells for cleaner report formatting.
 - Populate Adjacent Cell (ProcessAndEnsureAdjacentCellIsBlank): Populates store names upwards based on "Total" rows and ensures adjacent cells are left blank when necessary.
-- Populate 'Period' Column (UpdatePeriod): Automatically extracts the period from worksheet names and inserts it into the appropriate column.
+- Populate "Period" Column (UpdatePeriod): Automatically extracts the period from worksheet names and inserts it into the appropriate column.
 - Clear Format & Adjust (ClearFormatAndAdjustAllSheets): Removes all formatting and auto-adjusts column and row sizes for better visibility.
 - Insert Table Format (InsertOrReplaceClearTableInAllSheets): Inserts or replaces tables across all sheets to ensure consistent formatting.
 - Consolidate Data (ConsolidateDataAndRename): Merges data from multiple sheets into a "Master" sheet and renames it to "Consolidated Data".
